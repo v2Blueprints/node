@@ -1,0 +1,11 @@
+{
+	"title": "Node",
+	"description": "Node and NPM",
+	"os_packages": {
+		"adds": [
+		"nodejs",
+			"npm"
+		]
+	}
+
+}
