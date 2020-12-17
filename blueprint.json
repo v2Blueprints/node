@@ -1,10 +1,10 @@
 {
 	"title": "Node",
 	"description": "Node and NPM",
-	"os_packages": {
+	"system_packages": {
 		"adds": [
 		"nodejs",
-			"npm"
+		"npm"
 		]
 	}
 
