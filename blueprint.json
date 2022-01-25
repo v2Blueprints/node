@@ -1,11 +1,12 @@
 {
-	"title": "Node",
-	"description": "Node and NPM",
+	"about": {
+		"title": "Node",
+		"explanation": "Node and NPM"
+	},
 	"system_packages": {
 		"adds": [
-		"nodejs",
-		"npm"
+			"nodejs",
+			"npm"
 		]
 	}
-
 }
